@@ -1,0 +1,6 @@
+﻿  ArrayInterface.cpp
+ArrayInterface.cpp(717): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Interface.cpp
+  Generating code
+c:\users\lukasz\documents\visual studio 2015\projects\sdizo\sdizo\array.cpp : fatal error C1301: error accessing program database C:\Users\lukasz\documents\visual studio 2015\Projects\SDiZO\Release\SDiZO.ipdb, invalid format, please delete and rebuild
+LINK : fatal error LNK1257: code generation failed

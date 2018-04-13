@@ -1,0 +1,11 @@
+﻿  ArrayInterface.cpp
+ArrayInterface.cpp(702): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  BinaryHeapInterface.cpp
+  Interface.cpp
+  Generating code
+  25 of 361 functions ( 6.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDiZO.vcxproj -> C:\Users\lukasz\documents\visual studio 2015\Projects\SDiZO\x64\Release\SDiZO.exe
+  SDiZO.vcxproj -> C:\Users\lukasz\documents\visual studio 2015\Projects\SDiZO\x64\Release\SDiZO.pdb (Full PDB)
