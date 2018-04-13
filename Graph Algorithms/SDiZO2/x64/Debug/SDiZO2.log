@@ -1,0 +1,4 @@
+﻿  Test.cpp
+c:\users\lukasz\documents\visual studio 2015\projects\sdizo2\sdizo2\test.cpp(73): warning C4305: '=': truncation from 'double' to 'float'
+  SDiZO2.vcxproj -> C:\Users\lukasz\documents\visual studio 2015\Projects\SDiZO2\x64\Debug\SDiZO2.exe
+  SDiZO2.vcxproj -> C:\Users\lukasz\documents\visual studio 2015\Projects\SDiZO2\x64\Debug\SDiZO2.pdb (Full PDB)
