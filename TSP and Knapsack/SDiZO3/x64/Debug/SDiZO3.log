@@ -1,0 +1,4 @@
+﻿  Bagman.cpp
+c:\users\lukasz\documents\visual studio 2015\projects\sdizo3\sdizo3\bagman.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDiZO3.vcxproj -> C:\Users\lukasz\Documents\Visual Studio 2015\Projects\SDiZO3\x64\Debug\SDiZO3.exe
+  SDiZO3.vcxproj -> C:\Users\lukasz\Documents\Visual Studio 2015\Projects\SDiZO3\x64\Debug\SDiZO3.pdb (Full PDB)

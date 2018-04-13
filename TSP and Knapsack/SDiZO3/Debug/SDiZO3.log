@@ -1,0 +1,4 @@
+﻿  BruteForceKnapsack.cpp
+c:\users\lukasz\documents\visual studio 2015\projects\sdizo3\sdizo3\bruteforceknapsack.cpp(30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SDiZO3.vcxproj -> C:\Users\lukasz\Documents\Visual Studio 2015\Projects\SDiZO3\Debug\SDiZO3.exe
+  SDiZO3.vcxproj -> C:\Users\lukasz\Documents\Visual Studio 2015\Projects\SDiZO3\Debug\SDiZO3.pdb (Full PDB)
